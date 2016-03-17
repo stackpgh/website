@@ -1,0 +1,19 @@
+{
+  "name": "stackpgh.com",
+  "version": "1.0.0",
+  "description": "website for stack pittsburgh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackpgh/website.git"
+  },
+  "author": "James Turnshek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stackpgh/website/issues"
+  },
+  "homepage": "https://github.com/stackpgh/website#readme"
+}

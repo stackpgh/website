@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stackpgh/website/issues"
   },
-  "homepage": "https://github.com/stackpgh/website#readme"
+  "homepage": "https://github.com/stackpgh/website#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }

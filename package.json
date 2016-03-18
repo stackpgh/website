@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stackpgh/website#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "stripe": "^4.5.0"
   }
 }
